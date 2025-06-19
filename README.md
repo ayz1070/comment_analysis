@@ -61,15 +61,15 @@ lib/
 - 리뷰 데이터는 별도의 파이썬 크롤러(`comment_crawling.ipynb`)로 수집 후, 분석 결과를 JSON 파일로 저장합니다.
 - 분석 결과 예시(JSON):
   ```json
-{
-  "total_reviews": 34,
-  "overall_counts": {"1": 6, "2": 1, "..."},
-  "analysis": {
-    "5": {"review_count": 19, "top_words": [{"word": "최고", "frequency": 4}, ...]},
-    ...
+  {
+    "total_reviews": 34,
+    "overall_counts": {"1": 6, "2": 1, ...},
+    "analysis": {
+      "5": {"review_count": 19, "top_words": [{"word": "최고", "frequency": 4}, ...]},
+      ...
+    }
   }
-}
-```
+  ```
 
 
 
