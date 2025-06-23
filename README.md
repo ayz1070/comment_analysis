@@ -1,8 +1,8 @@
-# Mofix 리뷰 분석 Flutter 프로젝트
+# Mofic 리뷰 분석 Flutter 프로젝트
 
 ## 소개
 
-이 프로젝트는 Google Play 스토어의 "모픽(Mofix)" 앱 리뷰 데이터를 수집·분석하여, 점수별 리뷰 개수와 주요 단어 빈도를 시각적으로 보여주는 Flutter 기반 데이터 분석/시각화 앱입니다.
+이 프로젝트는 Google Play 스토어의 "모픽(Mofic)" 앱 리뷰 데이터를 수집·분석하여, 점수별 리뷰 개수와 주요 단어 빈도를 시각적으로 보여주는 Flutter 기반 데이터 분석/시각화 앱입니다.
 
 - **클린 아키텍처**와 **GetX** 상태관리를 적용하여 확장성과 유지보수성을 높였습니다.
 - 리뷰 데이터는 크롤링 후 JSON 파일(`analysis_result.json`)로 저장되어 앱에서 불러와 분석 결과를 시각화합니다.
@@ -13,7 +13,7 @@
 - Google Play 리뷰 데이터(JSON) 로딩 및 분석
 - 점수(별점)별 리뷰 개수 집계 및 시각화
 - 점수별 주요 단어 빈도 파이차트 시각화
-- GetX 기반 상태관리 및 반응형 UI
+- GetX 기반 상태관리
 - 클린 아키텍처 기반의 견고한 코드 구조
 
 ## 폴더 구조
@@ -32,6 +32,7 @@ lib/
   presentation/
     controller/   # GetX 컨트롤러
     page/         # 화면(UI)
+    widget/         # 화면(UI)
   assets/         # 분석 결과 JSON 등 리소스
 ```
 
@@ -43,18 +44,6 @@ lib/
 - Google Fonts (폰트)
 - 클린 아키텍처
 
-## 실행 방법
-
-1. 의존성 설치
-   ```bash
-   flutter pub get
-   ```
-2. 분석 결과 파일 준비
-   - `lib/assets/analysis_result.json` 파일이 존재해야 합니다.
-3. 앱 실행
-   ```bash
-   flutter run
-   ```
 
 ## 데이터 수집/분석
 
