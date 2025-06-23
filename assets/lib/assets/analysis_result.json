@@ -1,0 +1,237 @@
+{
+  "total_reviews": 34,
+  "overall_counts": {
+    "1": 6,
+    "2": 1,
+    "3": 4,
+    "4": 4,
+    "5": 19
+  },
+  "analysis": {
+    "1": {
+      "review_count": 6,
+      "top_words": [
+        {
+          "word": "로그인",
+          "frequency": 3
+        },
+        {
+          "word": "오류",
+          "frequency": 1
+        },
+        {
+          "word": "설치",
+          "frequency": 1
+        },
+        {
+          "word": "강요",
+          "frequency": 1
+        },
+        {
+          "word": "에러",
+          "frequency": 1
+        },
+        {
+          "word": "발생",
+          "frequency": 1
+        },
+        {
+          "word": "라며",
+          "frequency": 1
+        },
+        {
+          "word": "몇번",
+          "frequency": 1
+        },
+        {
+          "word": "시도",
+          "frequency": 1
+        },
+        {
+          "word": "인생",
+          "frequency": 1
+        }
+      ]
+    },
+    "2": {
+      "review_count": 1,
+      "top_words": [
+        {
+          "word": "버그",
+          "frequency": 2
+        },
+        {
+          "word": "다음",
+          "frequency": 2
+        },
+        {
+          "word": "장점",
+          "frequency": 1
+        },
+        {
+          "word": "피해망상",
+          "frequency": 1
+        },
+        {
+          "word": "연애",
+          "frequency": 1
+        },
+        {
+          "word": "단점",
+          "frequency": 1
+        },
+        {
+          "word": "지금",
+          "frequency": 1
+        },
+        {
+          "word": "화로",
+          "frequency": 1
+        },
+        {
+          "word": "마지막",
+          "frequency": 1
+        },
+        {
+          "word": "소설",
+          "frequency": 1
+        }
+      ]
+    },
+    "3": {
+      "review_count": 4,
+      "top_words": [
+        {
+          "word": "소설",
+          "frequency": 3
+        },
+        {
+          "word": "진행",
+          "frequency": 1
+        },
+        {
+          "word": "크롤",
+          "frequency": 1
+        },
+        {
+          "word": "글자",
+          "frequency": 1
+        },
+        {
+          "word": "보기",
+          "frequency": 1
+        },
+        {
+          "word": "덜덜",
+          "frequency": 1
+        },
+        {
+          "word": "피아",
+          "frequency": 1
+        },
+        {
+          "word": "시리즈",
+          "frequency": 1
+        },
+        {
+          "word": "반면",
+          "frequency": 1
+        },
+        {
+          "word": "정말",
+          "frequency": 1
+        }
+      ]
+    },
+    "4": {
+      "review_count": 4,
+      "top_words": [
+        {
+          "word": "가입",
+          "frequency": 4
+        },
+        {
+          "word": "무료",
+          "frequency": 2
+        },
+        {
+          "word": "다음",
+          "frequency": 2
+        },
+        {
+          "word": "화로",
+          "frequency": 2
+        },
+        {
+          "word": "기능",
+          "frequency": 2
+        },
+        {
+          "word": "계정",
+          "frequency": 2
+        },
+        {
+          "word": "회원",
+          "frequency": 2
+        },
+        {
+          "word": "웹소설",
+          "frequency": 1
+        },
+        {
+          "word": "크롤",
+          "frequency": 1
+        },
+        {
+          "word": "모드",
+          "frequency": 1
+        }
+      ]
+    },
+    "5": {
+      "review_count": 19,
+      "top_words": [
+        {
+          "word": "최고",
+          "frequency": 4
+        },
+        {
+          "word": "작품",
+          "frequency": 4
+        },
+        {
+          "word": "무료",
+          "frequency": 3
+        },
+        {
+          "word": "어플",
+          "frequency": 3
+        },
+        {
+          "word": "사용",
+          "frequency": 3
+        },
+        {
+          "word": "페이지",
+          "frequency": 3
+        },
+        {
+          "word": "기능",
+          "frequency": 3
+        },
+        {
+          "word": "다음",
+          "frequency": 2
+        },
+        {
+          "word": "다른",
+          "frequency": 2
+        },
+        {
+          "word": "소설",
+          "frequency": 2
+        }
+      ]
+    }
+  }
+}
